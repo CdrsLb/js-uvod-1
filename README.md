@@ -1,1 +1,2 @@
-# jd-uvod
+# Úvod do JavaScriptu
+

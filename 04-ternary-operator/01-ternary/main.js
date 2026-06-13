@@ -1,0 +1,1 @@
+// ternarni operator
